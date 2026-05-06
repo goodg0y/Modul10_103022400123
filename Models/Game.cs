@@ -15,19 +15,7 @@
 
         public Game() { }
 
-        public Game()
-        {
-            id = id;
-            nama = nama;
-            developer = developer;
-            tahunRilis = tahunRilis;
-            genre = genre;
-            rating = rating
-            platform = platform;
-            mode = mode;
-            isOnline = isOnline;
-            harga = harga;
-        }
+        
 
     }
 }
